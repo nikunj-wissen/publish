@@ -1,4 +1,4 @@
-package io.github.nikunj-wissen;
+package io.github.nikunjwissen;
 
 /**
  * Hello world!
